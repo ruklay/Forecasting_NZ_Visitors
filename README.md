@@ -10,4 +10,6 @@ From the model, we can decompose the time series data into Trend, Seasonality, a
 
 Finally, after finish adjusting all parameters, we can then forcast the future number of visitors by selecting a year. The output is the predicted number of visitors for each month of the specific year.
 
+The final program can be tested at https://ruklay.shinyapps.io/ABI01/
+
 (The dataset is from statistics New Zealand)
