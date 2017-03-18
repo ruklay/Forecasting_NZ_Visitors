@@ -8,7 +8,7 @@ Time Series analysis of the number of visitors to New Zealand by using R, and Sh
 
 From the model, we can decompose the time series data into Trend, Seasonality, and Random Noise. Also, we can compare between the data from our model, and the actual data. We can go back to change above parameters at any time.
 
-Finally, after finish adjusting all parameters, we can then forcast the future number of visitors by selecting a year. The output is the predicted number of visitors for each month of the specific year.
+Finally, after finish adjusting all parameters, we can then forecast the future number of visitors by selecting a year. The output is the predicted number of visitors for each month of the specific year.
 
 The final program can be tested at https://ruklay.shinyapps.io/ABI01/
 
